@@ -1,16 +1,170 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ariesjeev/Ariesjeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jeevan%20Bikash%20Sahoo&fontSize=42&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Game%20Dev%20%7C%20AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=18&animation=twinkling)
 
-Here are some ideas to get you started:
+  <a href="https://github.com/Ariesjeev">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+apps+with+the+MERN+stack;Training+and+evaluating+AI+models+with+RLHF;Shipping+games+in+Unity+%2F+C%23;Always+debugging+something+at+2+AM&font=Fira+Code&center=true&width=600&height=45&color=6C63FF&vCenter=true&size=20" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jeevan02/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/sahoojeevanbikash/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/profile/sahoojeevanbika1"><img src="https://img.shields.io/badge/HackerRank-%2316C784.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://www.geeksforgeeks.org/profile/sahoojeevdw9w?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"></a>
+  <a href="mailto:sahoojeevanbikash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+```yaml
+Name: Jeevan Bikash Sahoo
+Location: Bengaluru, India
+Focus Areas: Full-Stack Development  | | Machine Learning | Deep Learning | Natural Language Processing | Intelligent Web Applications
+Currently: Seeking Software Engineering / AI Engineering / Data Science roles at startups & remote-first teams
+Fun Fact: I like building things end-to-end — from full-stack apps to game mechanics to AI-powered tools
+```
+
+- 🔭 Building intelligent applications using Machine Learning, Deep Learning, and modern AI technologies.
+- 🎮 Shipping games and interactive systems with Unity/C#.
+- 🤖 Working hands-on with AI model evaluation, RLHF, and multimodal output assessment.
+- 📚 Continuously learning by building projects from scratch and understanding the underlying algorithms.
+
+---
+
+### 💼 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+**🔹 AI Data Quality Analyst** · iMerit Scholars
+<br/>
+<sub>March 2026 – Present · 4 months</sub>
+
+- Evaluating AI-generated images and multimodal outputs for prompt relevance, visual accuracy, and quality guidelines.
+- Ranking multiple generated outputs and identifying best/worst results across image sets to support model evaluation.
+- Performing Grounding and Chain-of-Thought verification tasks to keep AI responses accurate and aligned with source context.
+- Contributing to model improvement using human feedback methodologies, including RLHF.
+- Working across multiple AI training/evaluation projects — prompt-based image assessment and response verification.
+- Maintaining 80–90%+ task activity and high annotation accuracy on large-scale datasets.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**🔹 Software Developer / Game Developer — Applications & Systems** · Capsitech, Jodhpur, India
+<br/>
+<sub>Jul 2025 – Nov 2025 · 5 months</sub>
+
+- Delivered 3 client-facing software products end-to-end across a 5-month engagement — owning requirements, architecture, development, QA, and deployment — for a Task Management System, a puzzle game, and the TactIQXO project.
+- Improved payroll data accuracy by 25% in the Total Time Pay system through systematic SQL-based debugging and data analytics to resolve root-cause data integrity issues.
+- Engineered a role-based access control system for 3+ user tiers (Admin, Team Lead, Employee) with 100% clean module integration — building RESTful APIs in Java and Python, full CRUD operations, and real-time dashboard analytics.
+- Reduced authentication friction across 2 applications by integrating Firebase Authentication with Google Sign-In, applying agile practices to ship on schedule.
+- Built and optimized 2 Unity/C# applications from concept to deployment — designing core game logic, UI flows, and local data management.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Game Dev**
+
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+**AI / ML**
+
+![Anthropic Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌱 Currently Exploring
+
+- 🤖 Large Language Models (LLMs) & Agentic AI Systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🎮 Unity game systems & mechanics
+- 🏆 Competitive programming 
+- 🧠 Reinforcement Learning
+- 🎨 Generative AI & Diffusion Models
+- 🎭 Generative Adversarial Networks (GANs)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ariesjeev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariesjeev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariesjeev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ariesjeev&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="95%">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ariesjeev&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views">
+</p>
+
+<div align="center">
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
