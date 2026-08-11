@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jeevan%20Bikash%20Sahoo&fontSize=42&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20MERN%20Stack%20%7C%20Game%20Dev%20%7C%20AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=18&animation=twinkling)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jeevan%20Bikash%20Sahoo&fontSize=42&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20MERN%20Stack%20%7C%20Game%20Dev&descAlignY=58&descSize=18&animation=twinkling)
 
 <!-- <a href="https://github.com/Ariesjeev">
     <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+apps+with+the+MERN+stack;Training+and+evaluating+AI+models+with+RLHF;Shipping+games+in+Unity+%2F+C%23;Always+debugging+something+at+2+AM&font=Fira+Code&center=true&width=600&height=45&color=6C63FF&vCenter=true&size=20" alt="Typing SVG" />
