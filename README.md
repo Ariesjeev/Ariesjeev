@@ -1,229 +1,203 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=JEEVAN%20BIKASH%20SAHOO&fontSize=38&fontColor=00F5D4&fontAlignY=45&desc=full-stack%20%2F%2F%20ai-ml%20%2F%2F%20game-dev&descAlignY=65&descSize=16&descAlign=50&animation=fadeIn" width="100%"/>
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jeevan%20Bikash%20Sahoo&fontSize=42&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20MERN%20Stack%20%7C%20Game%20Dev&descAlignY=58&descSize=18&animation=twinkling)
 
-</div>
-
-<div align="center">
-
-```
-$ whoami
-> engineer who ships end-to-end — apps, games, and AI systems alike
-> currently distilling raw code into working products, one commit at a time
-```
+<!-- <a href="https://github.com/Ariesjeev">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+apps+with+the+MERN+stack;Training+and+evaluating+AI+models+with+RLHF;Shipping+games+in+Unity+%2F+C%23;Always+debugging+something+at+2+AM&font=Fira+Code&center=true&width=600&height=45&color=6C63FF&vCenter=true&size=20" alt="Typing SVG" />
+  </a> -->
 
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jeevan02/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/u/sahoojeevanbikash/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.hackerrank.com/profile/sahoojeevanbika1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"></a>
-  <a href="https://www.geeksforgeeks.org/profile/sahoojeevdw9w?tab=activity"><img src="https://img.shields.io/badge/GfG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"></a>
-  <a href="mailto:sahoojeevanbikash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/jeevan02/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/sahoojeevanbikash/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/profile/sahoojeevanbika1"><img src="https://img.shields.io/badge/HackerRank-%2316C784.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://www.geeksforgeeks.org/profile/sahoojeevdw9w?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"></a>
+  <a href="mailto:sahoojeevanbikash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<br/>
+---
 
-## 🧪 the lab notebook
+### 🧑‍💻 About Me
 
-<table width="100%">
+```yaml
+Name: Jeevan Bikash Sahoo
+Location: Bengaluru, India
+Focus Areas: Full-Stack Development | Machine Learning | Deep Learning | Natural Language Processing | Intelligent Web Applications
+Currently: Seeking Software Engineering / AI Engineering / Data Science roles at startups & remote-first teams
+Fun Fact: I like building things end-to-end — from full-stack apps to game mechanics to AI-powered tools
+```
+
+- 🔭 Building intelligent applications using Machine Learning, Deep Learning, and modern AI technologies.
+- 🎮 Shipping games and interactive systems with Unity/C#.
+- 🤖 Working hands-on with AI model evaluation, RLHF, and multimodal output assessment.
+- 📚 Continuously learning by building projects from scratch and understanding the underlying algorithms.
+
+---
+
+### 💼 Experience
+
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="100%">
 
-**sample:** Jeevan Bikash Sahoo
-**origin:** Bengaluru, India
-**state:** actively distilling → seeking Software Eng / AI Eng / Data Science roles
-**reagents:** MERN Stack · Python · AI/ML · Unity/C#
-**apparatus:** builds full loop — frontend, backend, models, and the games in between
+**🔹 AI Data Quality Analyst** · iMerit Scholars
+<br/>
+<sub>March 2026 – Present · 4 months</sub>
+
+- Evaluating AI-generated images and multimodal outputs for prompt relevance, visual accuracy, and quality guidelines.
+- Ranking multiple generated outputs and identifying best/worst results across image sets to support model evaluation.
+- Performing Grounding and Chain-of-Thought verification tasks to keep AI responses accurate and aligned with source context.
+- Contributing to model improvement using human feedback methodologies, including RLHF.
+- Working across multiple AI training/evaluation projects — prompt-based image assessment and response verification.
+- Maintaining 80–90%+ task activity and high annotation accuracy on large-scale datasets.
 
 </td>
-<td width="45%" valign="top">
+</tr>
+<tr>
+<td width="100%">
 
-```python
-class Jeevan:
-    def __init__(self):
-        self.focus = [
-            "full-stack dev",
-            "AI/ML systems",
-            "game mechanics"
-        ]
-        self.status = "compiling..."
+**🔹 Software Developer / Game Developer — Applications & Systems** · Capsitech, Jodhpur, India
+<br/>
+<sub>Jul 2025 – Nov 2025 · 5 months</sub>
 
-    def ship(self, idea):
-        return f"{idea} → production"
-```
+- Delivered 3 client-facing software products end-to-end across a 5-month engagement — owning requirements, architecture, development, QA, and deployment — for a Task Management System, a puzzle game, and the TactIQXO project.
+- Improved payroll data accuracy by 25% in the Total Time Pay system through systematic SQL-based debugging and data analytics to resolve root-cause data integrity issues.
+- Engineered a role-based access control system for 3+ user tiers (Admin, Team Lead, Employee) with 100% clean module integration — building RESTful APIs in Java and Python, full CRUD operations, and real-time dashboard analytics.
+- Reduced authentication friction across 2 applications by integrating Firebase Authentication with Google Sign-In, applying agile practices to ship on schedule.
+- Built and optimized 2 Unity/C# applications from concept to deployment — designing core game logic, UI flows, and local data management.
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## ⚗️ distillation log — experience
-
-<table width="100%">
-<tr><td>
-
-**◆ AI Data Quality Analyst** — `iMerit Scholars`
-`Mar 2026 → Present`
-
-Evaluating multimodal AI outputs for accuracy, relevance, and alignment — running Grounding and Chain-of-Thought verification, ranking model outputs, and feeding RLHF pipelines that push models closer to reliable. Holding 80–90%+ task accuracy across large-scale annotation work.
-
-`RLHF` `Multimodal Eval` `CoT Verification` `Human Feedback`
-
-</td></tr>
-<tr><td>
-
-**◆ Software Developer / Game Developer** — `Capsitech, Jodhpur`
-`Jul 2025 → Nov 2025`
-
-Shipped 3 client-facing products solo end-to-end — a Task Management System, a puzzle game, and TactIQXO — owning everything from architecture to deployment. Cut payroll data errors by 25% through SQL-based root-cause debugging. Built role-based access for 3+ user tiers with clean module integration. Wired up Firebase + Google Sign-In across 2 apps. Shipped 2 Unity/C# apps from concept to release.
-
-`Java` `Python` `Firebase` `Unity/C#` `SQL` `REST APIs`
-
-</td></tr>
-</table>
-
-<br/>
-
-## 🔬 reagent shelf — tech stack
-
-<table width="100%">
-<tr>
-<td valign="top" width="20%">
+### 🛠️ Tech Stack
 
 **Languages**
-<br/>
-![JS](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TS](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Py](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-</td>
-<td valign="top" width="20%">
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI / ML**
-<br/>
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HF](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Sklearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-00C389?style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-</td>
-<td valign="top" width="20%">
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23135F9B.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%233C5488.svg?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%2300C389.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23154F5B.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
-<br/>
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-</td>
-<td valign="top" width="20%">
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-**Backend**
-<br/>
-![Node](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-404d59?style=flat-square&logo=express)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
+**Backend & APIs**
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="20%">
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 **Databases**
-<br/>
-![Mongo](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-</td>
-<td valign="top" width="20%">
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Game Dev**
-<br/>
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-</td>
-<td valign="top" width="20%">
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-**DevOps**
-<br/>
-![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-</td>
-<td valign="top" width="20%">
 
-**Design**
-<br/>
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**DevOps & Tools**
 
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br/>
+**Design & Productivity**
 
-## 🧫 experiment results — featured builds
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-| project | domain | stack | yield |
-|:---|:---:|:---|:---|
-| [**CreditWise**](https://github.com/Ariesjeev/CreditWise_Loan_System/tree/main) — loan approval prediction | Supervised ML | Scikit-Learn, Pandas | 87.5% accuracy · 79% precision |
-| **TailorCraft** — full-stack tailor shop platform | MERN | React, Node, MongoDB, JWT | RBAC, order state machine, live notifications |
-| **Delhi Metro Rail Router** | Graph Algorithms | JS | Routes across 285+ stations |
 
-<br/>
+---
 
-## 🌡️ currently in the beaker
+### 🚀 Featured Projects
 
-```diff
-+ LLMs & Agentic AI Systems
-+ Retrieval-Augmented Generation (RAG)
-+ Competitive Programming
-+ Reinforcement Learning
-+ Generative AI (Diffusion Models, GANs)
-+ Unity game systems & mechanics
-```
+#### 🤖 Machine Learning & Deep Learning
 
-<br/>
+| Project | Domain | Tech Stack | Highlights |
+| :--- | :---: | :--- | :--- |
+| [**CreditWise** — Loan Approval Prediction](https://github.com/Ariesjeev/CreditWise_Loan_System/tree/main) | Supervised Learning | Scikit-Learn, Pandas | 87.5% accuracy with 79% precision for loan approval prediction |
+<!--| [**SmartCart** — Customer Segmentation](https://github.com/sanjaynayak1224/SmartCart_E-Commerce--A_Customer_Segmentation_System) | Unsupervised Learning | Scikit-Learn, K-Means, PCA | Identified 4 customer personas for targeted marketing |
+| [**PowerPulse** — Energy Output Prediction](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks-Industrial_Power_Plant_Energy_Output_Prediction) | Deep Learning (Regression) | PyTorch, Scikit-Learn | Feedforward neural network achieving R² = 93.55% and RMSE = 4.29 MW |
+| [**DatePal** — Date Fruit Classification](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks_Date_Fruit_Category_Prediction) | Deep Learning (Classification) | PyTorch, Scikit-Learn | Classified 7 date fruit varieties with 94.44% accuracy |
+| [**VisionNet** — CNN Image Classification](https://github.com/sanjaynayak1224/Convolutional_Neural_Networks-Image_Classification) | Computer Vision | PyTorch, Torchvision | CNN trained on CIFAR-10 achieving 73.89% test accuracy |
+| [**SentimentRNN** — IMDB Movie Review Sentiment Analysis](https://github.com/sanjaynayak1224/Recurrent_Neural_Network-IMDB_Movie_Reviews_Sentiment_Analysis) | Natural Language Processing | PyTorch, NLTK, Scikit-Learn | End-to-end RNN achieving 86.96% accuracy on 50,000 IMDB movie reviews | -->
 
-## 📈 telemetry
+### 🌱 Currently Exploring
+
+- 🤖 Large Language Models (LLMs) & Agentic AI Systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🎮 Unity game systems & mechanics
+- 🏆 Competitive programming 
+- 🧠 Reinforcement Learning
+- 🎨 Generative AI & Diffusion Models
+- 🎭 Generative Adversarial Networks (GANs)
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ariesjeev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariesjeev&theme=highcontrast&hide_border=true&background=0D1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ariesjeev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariesjeev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariesjeev&theme=github-dark&hide_border=true&area=true&color=00F5D4&line=00F5D4&point=FF6B6B" alt="Contribution Graph" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariesjeev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ariesjeev&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="95%">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ariesjeev&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="95%">
 </p>
 
-<br/>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ariesjeev&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views">
+</p>
 
 <div align="center">
 
-```
-$ echo "thanks for stopping by — always open to interesting problems"
-```
-
-<img src="https://komarev.com/ghpvc/?username=Ariesjeev&label=lab%20visitors&color=00F5D4&style=flat-square" alt="Profile Views">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
