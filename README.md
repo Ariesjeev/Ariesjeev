@@ -156,7 +156,7 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
 
 | Project | Domain | Tech Stack | Highlights |
 | :--- | :---: | :--- | :--- |
-| [**CreditWise** — Loan Approval Prediction](https://github.com/sanjaynayak1224/CreditWise_Loan_System-A_Loan_Approval_Prediction_System) | Supervised Learning | Scikit-Learn, Pandas | 87.5% accuracy with 79% precision for loan approval prediction |
+| [**CreditWise** — Loan Approval Prediction](https://github.com/Ariesjeev/CreditWise_Loan_System/tree/main) | Supervised Learning | Scikit-Learn, Pandas | 87.5% accuracy with 79% precision for loan approval prediction |
 <!--| [**SmartCart** — Customer Segmentation](https://github.com/sanjaynayak1224/SmartCart_E-Commerce--A_Customer_Segmentation_System) | Unsupervised Learning | Scikit-Learn, K-Means, PCA | Identified 4 customer personas for targeted marketing |
 | [**PowerPulse** — Energy Output Prediction](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks-Industrial_Power_Plant_Energy_Output_Prediction) | Deep Learning (Regression) | PyTorch, Scikit-Learn | Feedforward neural network achieving R² = 93.55% and RMSE = 4.29 MW |
 | [**DatePal** — Date Fruit Classification](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks_Date_Fruit_Category_Prediction) | Deep Learning (Classification) | PyTorch, Scikit-Learn | Classified 7 date fruit varieties with 94.44% accuracy |
