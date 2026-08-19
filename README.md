@@ -150,6 +150,19 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
 
 ---
 
+### 🚀 Featured Projects
+
+#### 🤖 Machine Learning & Deep Learning
+
+| Project | Domain | Tech Stack | Highlights |
+| :--- | :---: | :--- | :--- |
+| [**CreditWise** — Loan Approval Prediction](https://github.com/sanjaynayak1224/CreditWise_Loan_System-A_Loan_Approval_Prediction_System) | Supervised Learning | Scikit-Learn, Pandas | 87.5% accuracy with 79% precision for loan approval prediction |
+<!--| [**SmartCart** — Customer Segmentation](https://github.com/sanjaynayak1224/SmartCart_E-Commerce--A_Customer_Segmentation_System) | Unsupervised Learning | Scikit-Learn, K-Means, PCA | Identified 4 customer personas for targeted marketing |
+| [**PowerPulse** — Energy Output Prediction](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks-Industrial_Power_Plant_Energy_Output_Prediction) | Deep Learning (Regression) | PyTorch, Scikit-Learn | Feedforward neural network achieving R² = 93.55% and RMSE = 4.29 MW |
+| [**DatePal** — Date Fruit Classification](https://github.com/sanjaynayak1224/Feedforward_Neural_Networks_Date_Fruit_Category_Prediction) | Deep Learning (Classification) | PyTorch, Scikit-Learn | Classified 7 date fruit varieties with 94.44% accuracy |
+| [**VisionNet** — CNN Image Classification](https://github.com/sanjaynayak1224/Convolutional_Neural_Networks-Image_Classification) | Computer Vision | PyTorch, Torchvision | CNN trained on CIFAR-10 achieving 73.89% test accuracy |
+| [**SentimentRNN** — IMDB Movie Review Sentiment Analysis](https://github.com/sanjaynayak1224/Recurrent_Neural_Network-IMDB_Movie_Reviews_Sentiment_Analysis) | Natural Language Processing | PyTorch, NLTK, Scikit-Learn | End-to-end RNN achieving 86.96% accuracy on 50,000 IMDB movie reviews | -->
+
 ### 🌱 Currently Exploring
 
 - 🤖 Large Language Models (LLMs) & Agentic AI Systems
