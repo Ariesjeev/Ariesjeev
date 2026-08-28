@@ -185,8 +185,7 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariesjeev&theme=tokyo-night&hide_border=true&area=true&v=2" alt="Contribution Graph" width="95%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariesjeev&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="95%">
-</p>
+  <img src="https://raw.githubusercontent.com/Ariesjeev/Ariesjeev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariesjeev&theme=tokyonight&area=true" alt="Contribution Graph" width="95%"> -->
 </p>
 
