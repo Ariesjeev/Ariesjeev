@@ -183,9 +183,15 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
   <img src = "https://streak-stats.demolab.com/?user=Ariesjeev&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariesjeev&theme=tokyo-night&hide_border=true&area=true&v=1" alt="Contribution Graph" width="95%">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariesjeev&theme=tokyonight&area=true" alt="Contribution Graph" width="95%"> -->
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariesjeev&theme=tokyo-night&hide_border=true&area=true"
+       alt="GitHub Contribution Graph"
+       width="95%">
 </p>
 
 <p align="center">
