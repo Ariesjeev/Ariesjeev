@@ -5,6 +5,20 @@
 <!-- <a href="https://github.com/Ariesjeev">
     <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+apps+with+the+MERN+stack;Training+and+evaluating+AI+models+with+RLHF;Shipping+games+in+Unity+%2F+C%23;Always+debugging+something+at+2+AM&font=Fira+Code&center=true&width=600&height=45&color=6C63FF&vCenter=true&size=20" alt="Typing SVG" />
   </a> -->
+  <p align="center">
+  <strong>⚡ Building full-stack applications</strong>
+  &nbsp; • &nbsp;
+  <strong>🤖 Developing AI-powered systems</strong>
+  &nbsp; • &nbsp;
+  <strong>🎮 Creating Unity experiences</strong>
+</p>
+
+<p align="center">
+  <sub>
+    MERN Stack · Python · Machine Learning · Deep Learning · NLP · Generative AI · Unity/C#
+  </sub>
+</p>
+
 
 </div>
 
