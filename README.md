@@ -195,7 +195,7 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ariesjeev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ariesjeev&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Stats" width="48%">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariesjeev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"> -->
   <img src = "https://streak-stats.demolab.com/?user=Ariesjeev&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
