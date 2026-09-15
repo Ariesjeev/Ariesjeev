@@ -1,44 +1,55 @@
 name: Update GitHub Stats
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 3 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create profile directory
+        run: mkdir -p profile
+
       - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=Ariesjeev&show_icons=true&theme=tokyonight&hide_border=true&count_private=false
-          path: profile/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -fL "https://github-readme-stats.vercel.app/api?username=Ariesjeev&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" \
+          -o profile/github-stats.svg
 
       - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=Ariesjeev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -fL "https://github-readme-stats.vercel.app/api/top-langs/?username=Ariesjeev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" \
+          -o profile/top-langs.svg
 
-      - name: Commit updated stats
+      - name: Check generated files
+        run: |
+          echo "github-stats.svg:"
+          ls -lh profile/github-stats.svg
+
+          echo "top-langs.svg:"
+          ls -lh profile/top-langs.svg
+
+          echo "First line:"
+          head -n 1 profile/github-stats.svg
+
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/*.svg
+          git add profile/github-stats.svg profile/top-langs.svg
 
-          git diff --cached --quiet || git commit -m "Update GitHub stats"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update GitHub stats"
+            git push
+          fi
