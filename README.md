@@ -206,7 +206,7 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariesjeev&theme=tokyo-night&hide_border=true&area=true&v=1"
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Ariesjeev&theme=tokyo-night&hide_border=true&area=true"
        alt="GitHub Contribution Graph"
        width="95%">
 </p>
