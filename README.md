@@ -137,7 +137,7 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SupaBase](https://img.shields.io/badge/Supabase-%23316192.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![SupaBase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Game Dev**
 
