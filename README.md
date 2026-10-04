@@ -111,6 +111,7 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23135F9B.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%233C5488.svg?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%2300C389.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%2300C389.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-%23154F5B.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
