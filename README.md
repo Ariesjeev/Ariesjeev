@@ -57,7 +57,7 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
 <tr>
 <td width="100%">
 
-**🔹 AI Data Quality Analyst** · iMerit Technology
+**🔹 AI Data Quality Analyst** · iMerit
 <br/>
 <sub>March 2026 – Present · 4 months</sub>
 
