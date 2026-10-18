@@ -224,6 +224,9 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
   <img src="https://komarev.com/ghpvc/?username=Ariesjeev&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ariesjeev&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="GitHub Profile Views Counter" />
+</p>
 <div align="center">
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
