@@ -225,7 +225,7 @@ Fun Fact: I like building things end-to-end — from full-stack apps to game mec
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ariesjeev&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="GitHub Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Ariesjeev&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
 </p>
 <div align="center">
 
